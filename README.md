@@ -26,7 +26,7 @@ A mobile Meal Mate application for designed to help users manage dailt meals pla
 4. Swipe left or right to manage meals
 
 ## Folder Structure
-/MobileProject_MealMate
+CETAndroidMobile
 ├── /app
 │   ├── /src/main
 │   │   ├── /java   # Activity/ViewModel classes
